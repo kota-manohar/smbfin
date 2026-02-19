@@ -1,0 +1,10 @@
+transaction_id
+balance_due
+created_by
+created_date
+customer_id
+paid_date
+paid_due
+transaction_date
+updated_by
+last_updated_date
